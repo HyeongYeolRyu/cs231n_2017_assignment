@@ -1,0 +1,10 @@
+__pycache__
+cifar-10-batches-py
+build
+coco_captioning
+MNIST_data
+imagenet_val_25.npz
+squeezenet.ckpt.data-00000-of-00001
+squeezenet.ckpt.meta
+imagenet_val_25.npz.1
+squeezenet.ckpt.index
